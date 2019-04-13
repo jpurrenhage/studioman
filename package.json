@@ -1,0 +1,40 @@
+{
+  "name": "StudioMan",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://jpurrenhage.github.io",
+  "devDependencies": {
+    "react-scripts": "^2.1.8"
+  },
+  "dependencies": {
+    "apollo-boost": "^0.3.1",
+    "apollo-link-context": "^1.0.17",
+    "auth0-js": "^9.0.0",
+    "bootstrap": "^3.3.7",
+    "gh-pages": "^2.0.1",
+    "graphql": "^14.2.1",
+    "react": "^15.6.1",
+    "react-apollo": "^2.5.4",
+    "react-bootstrap": "^0.31.2",
+    "react-dom": "^15.6.1",
+    "react-router": "^4.1.2",
+    "react-router-dom": "^4.1.2"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b master -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
