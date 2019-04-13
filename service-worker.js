@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/jpurrenhage/studioman/precache-manifest.838548e73ae0eacbf03d4eb7e7511d79.js"
+  "/studioman/precache-manifest.f39c8005d5d3f8486c90d8586b3857bd.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/jpurrenhage/studioman/index.html", {
+workbox.routing.registerNavigationRoute("/studioman/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
