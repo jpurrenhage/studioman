@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "448c34a56d699c29117adc64c43affeb",
-    "url": "/studioman/static/media/glyphicons-halflings-regular.448c34a5.woff2"
+    "revision": "f4769f9bdb7466be65088239c12046d1",
+    "url": "/studioman/static/media/glyphicons-halflings-regular.f4769f9b.eot"
   },
   {
-    "revision": "67536446aaf21d0eeaf0",
+    "revision": "a931b43e1338fae62138",
     "url": "/studioman/static/css/main.a6c3d11b.chunk.css"
   },
   {
@@ -16,20 +16,20 @@ self.__precacheManifest = [
     "url": "/studioman/static/media/glyphicons-halflings-regular.89889688.svg"
   },
   {
-    "revision": "cb0f9e163a9991cafe0d",
-    "url": "/studioman/static/js/2.d2581a90.chunk.js"
+    "revision": "bf4b863312128896a312",
+    "url": "/studioman/static/js/2.6b6be9ec.chunk.js"
   },
   {
     "revision": "c5590569aab553af03722baa7d379978",
     "url": "/studioman/static/media/loading.c5590569.svg"
   },
   {
-    "revision": "67536446aaf21d0eeaf0",
-    "url": "/studioman/static/js/main.d9885a9e.chunk.js"
+    "revision": "a931b43e1338fae62138",
+    "url": "/studioman/static/js/main.e2f8d36b.chunk.js"
   },
   {
-    "revision": "f4769f9bdb7466be65088239c12046d1",
-    "url": "/studioman/static/media/glyphicons-halflings-regular.f4769f9b.eot"
+    "revision": "448c34a56d699c29117adc64c43affeb",
+    "url": "/studioman/static/media/glyphicons-halflings-regular.448c34a5.woff2"
   },
   {
     "revision": "fa2772327f55d8198301fdb8bcfc8158",
@@ -40,11 +40,11 @@ self.__precacheManifest = [
     "url": "/studioman/static/media/glyphicons-halflings-regular.e18bbf61.ttf"
   },
   {
-    "revision": "cb0f9e163a9991cafe0d",
+    "revision": "bf4b863312128896a312",
     "url": "/studioman/static/css/2.814835c2.chunk.css"
   },
   {
-    "revision": "3872c7a7f3a0ed56974011d2c4d00108",
+    "revision": "345991ad059c6c9be2780a8a579265cb",
     "url": "/studioman/index.html"
   }
 ];
