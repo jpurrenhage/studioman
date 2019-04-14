@@ -3,6 +3,7 @@ import loading from './loading.svg';
 
 class Callback extends Component {
   render() {
+    console.log('callback...');
     const style = {
       position: 'absolute',
       display: 'flex',

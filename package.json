@@ -2,7 +2,7 @@
   "name": "StudioMan",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jpurrenhage.github.io/studioman",
+  "homepage": "https://jpurrenhage.github.io/studioman/",
   "devDependencies": {
     "react-scripts": "^2.1.8"
   },
