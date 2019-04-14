@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/studioman/static/media/glyphicons-halflings-regular.f4769f9b.eot"
   },
   {
-    "revision": "1ca33ae02ca6a63f7e28",
+    "revision": "67536446aaf21d0eeaf0",
     "url": "/studioman/static/css/main.a6c3d11b.chunk.css"
   },
   {
@@ -24,16 +24,16 @@ self.__precacheManifest = [
     "url": "/studioman/static/media/loading.c5590569.svg"
   },
   {
-    "revision": "1ca33ae02ca6a63f7e28",
-    "url": "/studioman/static/js/main.cbb72ba3.chunk.js"
-  },
-  {
-    "revision": "fa2772327f55d8198301fdb8bcfc8158",
-    "url": "/studioman/static/media/glyphicons-halflings-regular.fa277232.woff"
+    "revision": "67536446aaf21d0eeaf0",
+    "url": "/studioman/static/js/main.d9885a9e.chunk.js"
   },
   {
     "revision": "448c34a56d699c29117adc64c43affeb",
     "url": "/studioman/static/media/glyphicons-halflings-regular.448c34a5.woff2"
+  },
+  {
+    "revision": "fa2772327f55d8198301fdb8bcfc8158",
+    "url": "/studioman/static/media/glyphicons-halflings-regular.fa277232.woff"
   },
   {
     "revision": "e18bbf611f2a2e43afc071aa2f4e1512",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/studioman/static/css/2.814835c2.chunk.css"
   },
   {
-    "revision": "e3b1245bc25164bf663fe2bf63a7c19b",
+    "revision": "81e650882785cad855769851e23bb7fd",
     "url": "/studioman/index.html"
   }
 ];
